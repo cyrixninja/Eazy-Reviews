@@ -1,9 +1,11 @@
 # Eazy-Reviews
 
-<img src="https://raw.githubusercontent.com/cyrixninja/Eazy-Reviews/main/screenshots/1.png" width="970">
+<p align="center"><img src="https://raw.githubusercontent.com/cyrixninja/Eazy-Reviews/main/image/Eazy%20Reviews.gif" align="center" alt="logo"  width="500" /></p>
 
 Eazy Reviews is a easy to use review platform built using Courier API and Cohere NLP API.Eazy Reviews provides seamless experience to business and consumers to make feedback system a lot easier. Eazy Reviews uses Courier API to send Email Notifications to Business and provide feedback reports to the business.Feedback Report are generated using Cohere's NLP API  which provides summarised reports to business that will help them to improve thier services so that customers love them. Eazy Reviews  aims to make feedback easier for small businesses around the world.
 
+# Deployment
+This Project is Deployed on Replit - https://Eazy-Reviews.cyrixninja.repl.co
 # User Guide
 
  Add your Business- https://github.com/cyrixninja/Eazy-Reviews/blob/main/guide/Add%20Your%20Business.pdf
@@ -33,6 +35,7 @@ Better user interface and brand logo support will be added to Eazy Reviews
 
 # Project Gallery
 
+<img src="https://raw.githubusercontent.com/cyrixninja/Eazy-Reviews/main/screenshots/1.png" width="970">
 <img src="https://raw.githubusercontent.com/cyrixninja/Eazy-Reviews/main/screenshots/2.png" width="970">
 <img src="https://raw.githubusercontent.com/cyrixninja/Eazy-Reviews/main/screenshots/3.png" width="970">
 <img src="https://raw.githubusercontent.com/cyrixninja/Eazy-Reviews/main/screenshots/4.png" width="970">
