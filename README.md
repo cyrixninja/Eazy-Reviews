@@ -30,3 +30,8 @@ Learnt to use Courier API efficiently. I will continue using it for my future pr
 
 # What's next for Eazy Reviews
 Better user interface and brand logo support will be added to Eazy Reviews
+
+# Project Gallery
+
+<img src="https://raw.githubusercontent.com/cyrixninja/Eazy-Reviews/main/screenshots/1.png" width="970">
+
