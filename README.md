@@ -33,5 +33,8 @@ Better user interface and brand logo support will be added to Eazy Reviews
 
 # Project Gallery
 
-<img src="https://raw.githubusercontent.com/cyrixninja/Eazy-Reviews/main/screenshots/1.png" width="970">
-
+<img src="https://raw.githubusercontent.com/cyrixninja/Eazy-Reviews/main/screenshots/2.png" width="970">
+<img src="https://raw.githubusercontent.com/cyrixninja/Eazy-Reviews/main/screenshots/3.png" width="970">
+<img src="https://raw.githubusercontent.com/cyrixninja/Eazy-Reviews/main/screenshots/4.png" width="970">
+<img src="https://raw.githubusercontent.com/cyrixninja/Eazy-Reviews/main/screenshots/5.png" width="970">
+<img src="https://raw.githubusercontent.com/cyrixninja/Eazy-Reviews/main/screenshots/6.png" width="970">
