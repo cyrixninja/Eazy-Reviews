@@ -17,6 +17,12 @@ This Project is Deployed on Replit - https://Eazy-Reviews.cyrixninja.repl.co
 # Inspiration 
 Online reviews from customers have created a new field in marketing and communication that bridges the gap between traditional word-of-mouth and a viral form of feedback that can influence consumers’ opinions. Analyzing reviews left by your customers, helps your business understand overall customer satisfaction, as they can provide your business with feedback regarding what your customers truly want. Consumers that take the time to leave an online review for your business are far more likely to feel a certain loyalty to you and keep coming back. Through the act of leaving a review and establishing a relationship with your business, it allows consumers to feel like they have a voice even behind a desktop and/or mobile and/ or tablet screen and are able to provide feedback in a positive and meaningful way. This project aims at creating a platform for small businesses to get customer feedback easily and make a summarised report on what your customer thinks about your business.
 
+# How does it work ❓
+- Eazy Reviews is a customer feedback platform built using Courier API and Cohere's NLP API.It makes it easy to get feedback from your customer with personalised NLP Reports
+- You can add your business to our database by submiting the form with your business details on Add your Business Page
+- 
+
+
 # Tech Stack Used 
 - Python
 - HTML,Javascript,CSS
