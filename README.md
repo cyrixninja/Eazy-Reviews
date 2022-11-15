@@ -20,7 +20,11 @@ Online reviews from customers have created a new field in marketing and communic
 # How does it work ❓
 - Eazy Reviews is a customer feedback platform built using Courier API and Cohere's NLP API.It makes it easy to get feedback from your customer with personalised NLP Reports
 - You can add your business to our database by submiting the form with your business details on Add your Business Page
-- 
+- Your buisness will now be added to review here page
+- Now you can redirect your customers to our review here page
+- Whenever your customer submits a feedback, you'll be notified via email along with thier detail.(We used courier api for email notifications)
+- If you want a feedback report,it will be available on receive feedback report page.
+- Feedback Report will be provided on your email address ( We used Courier API for Email Notification). Feedback Report will be generated using Cohere NLP API which specialises in giving best results using NLP AI. AI Reports will provide your an summary about your Business/ Service feedback.
 
 
 # Tech Stack Used 
