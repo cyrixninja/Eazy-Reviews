@@ -8,14 +8,18 @@ Eazy Reviews is a easy to use review platform built using Courier API and Cohere
 This Project is Deployed on Replit - https://Eazy-Reviews.cyrixninja.repl.co
 # User Guide
 
- Add your Business- https://github.com/cyrixninja/Eazy-Reviews/blob/main/guide/Add%20Your%20Business.pdf
+ [Add your Business](https://github.com/cyrixninja/Eazy-Reviews/blob/main/guide/Add%20Your%20Business.pdf)
  
- Get Feedback Reports- https://github.com/cyrixninja/Eazy-Reviews/blob/main/guide/Get%20Feedback%20Reports.pdf
+ [Get Feedback Reports](https://github.com/cyrixninja/Eazy-Reviews/blob/main/guide/Get%20Feedback%20Reports.pdf)
  
- Give Feedback- https://github.com/cyrixninja/Eazy-Reviews/blob/main/guide/Give%20Feedback.pdf
+ [Give Feedback](https://github.com/cyrixninja/Eazy-Reviews/blob/main/guide/Give%20Feedback.pdf)
  
 # Inspiration 
 Online reviews from customers have created a new field in marketing and communication that bridges the gap between traditional word-of-mouth and a viral form of feedback that can influence consumers’ opinions. Analyzing reviews left by your customers, helps your business understand overall customer satisfaction, as they can provide your business with feedback regarding what your customers truly want. Consumers that take the time to leave an online review for your business are far more likely to feel a certain loyalty to you and keep coming back. Through the act of leaving a review and establishing a relationship with your business, it allows consumers to feel like they have a voice even behind a desktop and/or mobile and/ or tablet screen and are able to provide feedback in a positive and meaningful way. This project aims at creating a platform for small businesses to get customer feedback easily and make a summarised report on what your customer thinks about your business.
+
+# What does this webapp do❓
+This webapp provided a feedback platform to small businesses that aims to help for setting up a feedback system for thier customers.This app also provides feeback reports using customer feedback data would help businesses understand the customer sentiment and customer suggestions once they receive large amount of reviews.
+
 
 # How does it work ❓
 - Eazy Reviews is a customer feedback platform built using Courier API and Cohere's NLP API.It makes it easy to get feedback from your customer with personalised NLP Reports
@@ -38,7 +42,7 @@ Online reviews from customers have created a new field in marketing and communic
 - Ubuntu WSL(Development Enviroment)
 - Visual Studio Code
 
-# How we built it❓
+# How I built it❓
 We built it using Courier's API ,Firebase ,Replit, Cohere's NLP,Flask and Python. We used Courier's API for our platform's email notifications, Firebase for storing the data online, Replit for developing our app and hosting our Backend and Flask as our Backend.We used Cohere's NLP API for processing the review data and making it to feedback report to send to the business owner
 
 # Challenges we ran into
