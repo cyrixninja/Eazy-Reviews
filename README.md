@@ -1,5 +1,5 @@
 # Eazy-Reviews
-
+[Video Demo](https://www.youtube.com/watch?v=dMKvKvJfqiA)
 <p align="center"><img src="https://raw.githubusercontent.com/cyrixninja/Eazy-Reviews/main/image/Eazy%20Reviews.gif" align="center" alt="logo"  width="500" /></p>
 
 Eazy Reviews is an easy-to-use review platform built using Courier API and Cohere NLP API. Eazy Reviews provides a seamless experience to businesses and consumers to make the feedback system a lot easier. Eazy Reviews uses Courier API to send Email Notifications to Businesses and provide feedback reports to the business. Feedback Reports are generated using Cohere's NLP API  which provides summarised reports to businesses that will help them to improve their services so that customers love them. Eazy Reviews aims to make feedback easier for small businesses around the world.
