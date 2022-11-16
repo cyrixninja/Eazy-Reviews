@@ -11,12 +11,17 @@ I would love if you guys would help me to make this app a best feedback platfrom
 - [Cohere Developer Account](https://cohere.ai/) 
 - [Git](https://git-scm.com/) 
 
-#Folder Overview
+# Folder Overview
 /guide (It contains all the user guide for the consumer)
+
 /image (It contains image data of this project)
+
 /screenshots (It contains screenshots of this project)
+
 /static/assets (It contains all the assets used in the website)
+
 /template (It contains all the html files)
+
 app.py (Main Backend of this project.You must fill up all the api keys before using it)
 
 # How to get started
